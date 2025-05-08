@@ -33,10 +33,10 @@
 ![Image](https://github.com/user-attachments/assets/b73cc943-7997-4e91-b849-fc9f7598fb03)
 
 - 에셋을 이용한 편안하고 따뜻한 시골풍 마당과 집 구현
-![Image](https://github.com/user-attachments/assets/94ecdaca-093f-4809-b375-8d354a5f4eb9)
+![Image](https://github.com/user-attachments/assets/2d69214a-256b-46a0-b29d-a1aa8fa7fd16)
 
 - 넓은 마당과 마당에 울타리, 자전거, 나무, 정원 등 간단한 소품 배치
-![Image](https://github.com/user-attachments/assets/2d69214a-256b-46a0-b29d-a1aa8fa7fd16)
+![Image](https://github.com/user-attachments/assets/94ecdaca-093f-4809-b375-8d354a5f4eb9)
 
 - 스태틱 메시, 머티리얼, 텍스쳐등의 파일을 임포트
 ![Image](https://github.com/user-attachments/assets/8e19ee3a-e118-4fec-8632-6c32f342ea69)
